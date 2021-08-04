@@ -6,6 +6,7 @@ include 'fungsi.php';
 <!DOCTYPE html>
 <html lang="en">
     <head>
+	<meta name="google-site-verification" content="Wttfu2EWqir3eFUaW2vrHu3A_Fhz_0fzR7WzOq5Nhdg" />
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <title><?php echo $nama_website;?></title>
